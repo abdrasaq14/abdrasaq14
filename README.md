@@ -1,4 +1,3 @@
-![Banner](https://abdulrasaq-portfolio-website.vercel.app/assets/abdrasaq-BpsmzqDJ.png))
 
 # Hi there, I'm Abdulrasaq Suleiman 👋
 
