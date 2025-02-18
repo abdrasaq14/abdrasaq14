@@ -1,6 +1,6 @@
 ![Banner]([https://your-image-link-here.com/banner.png](https://abdulrasaq-portfolio-website.vercel.app/assets/abdrasaq-BpsmzqDJ.png))
 
-# Hi there, I'm [Abdulrasaq Suleiman] 👋
+# Hi there, I'm Abdulrasaq Suleiman 👋
 
 🚀 **Full-Stack Software Engineer | Backend Specialist**  
 🔹 Passionate about **Node.js, React, Python, TypeScript, Next.js, Nest.js and Cloud Computing**  
