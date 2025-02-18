@@ -1,7 +1,7 @@
 
 # Hi there, I'm Abdulrasaq Suleiman 👋
 
-🚀 **Full-Stack Software Engineer | Backend Specialist**  
+🚀 **Full-Stack Software Engineer |**  
 🔹 Passionate about **Node.js, React, Python, TypeScript, Next.js, Nest.js and Cloud Computing**  
 🔹 Experienced in **building scalable web applications, APIs, and system architecture**  
 🔹 Open to **exciting opportunities** in backend and full-stack development
