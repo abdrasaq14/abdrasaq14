@@ -41,9 +41,9 @@ I redesigned and optimized the website for **Intercity**, a logistics company, i
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/abdulrasaq-suleiman]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdulrasaq-suleiman/))
+- **LinkedIn:** [linkedin.com/in/abdulrasaq-suleiman]([https://linkedin.com/in/abdulrasaq-suleiman](https://www.linkedin.com/in/abdulrasaq-suleiman/))
 - **GitHub:** [github.com/abdrasaq14]([https://github.com/your-github-username](https://github.com/abdrasaq14))
-- **Portfolio:** [[your-portfolio-link](https://abdulrasaq-portfolio-website.vercel.app)]([https://your-portfolio-link.com](https://abdulrasaq-portfolio-website.vercel.app/))
+- **Portfolio:** [[https://abdulrasaq-portfolio.website.vercel.app](https://abdulrasaq-portfolio-website.vercel.app)]([https://your-portfolio-link.com](https://abdulrasaq-portfolio-website.vercel.app/))
 - **Email:** abdrasaq14@gmail.com
 
 💡 **Open to new opportunities!** Feel free to reach out for collaboration or job opportunities. 🚀
