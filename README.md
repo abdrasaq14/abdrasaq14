@@ -24,7 +24,7 @@ I'm a results-driven software developer with expertise in **Node.js (Express.js,
 
 ### **🔹 Specnota** (Enterprise Project)
 **Stack:** React, AdonisJS, PostgreSQL  
-A **project management platform** designed for seamless team collaboration and productivity. **(Private Repository - Enterprise Project)** **Live Site:** [specnota.app](https://specnota.app)
+A **project management platform** designed for seamless team collaboration and productivity. **(Private Repository - Enterprise Project)** 
 
 ### **🔹 SmartApp** (Enterprise IoT Solution)
 **Stack:** React, WebSockets, Django Rest Framework, MQTT  
