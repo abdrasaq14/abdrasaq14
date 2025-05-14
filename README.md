@@ -9,11 +9,12 @@
 ---
 
 ## 🌟 About Me
-I'm a results-driven software developer with expertise in **Node.js (Express.js, AdonisJS, NestJS)** and **React (Next.js, TypeScript, Redux, Zustand)**. I have experience working on **enterprise applications, e-commerce platforms, IoT systems, and cloud-based solutions**. My focus is on delivering high-quality, scalable, and efficient software solutions.
+I'm a results-driven software developer with expertise in in developing user-friendly and scalable applications primarily using JavaScript and its frameworks. My experience includes building robust backend services and dynamic frontend interfaces, allowing me to create seamless user experiences. Additionally, I possess a keen eye for design, honed through my background as a graphic designer I have experience working on **enterprise applications, e-commerce platforms, IoT systems, and cloud-based solutions**. My focus is on delivering high-quality, scalable, and efficient software solutions.
 
 ### 🛠 Tech Stack & Tools:
+- **Languages:** JavaScript and Python
 - **Backend:** Node.js, Express.js, NestJS, AdonisJS, Django Rest Framework
-- **Frontend:** React, Next.js, TypeScript, Redux, Zustand, Tailwind CSS, Chakra UI
+- **Frontend:** React, Next.js, TypeScript, Redux, Tailwind CSS, Chakra UI
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Cloud & DevOps:** AWS (EC2, S3), Render, Docker, GitHub Actions, Firebase
 - **Other:** WebSockets, GraphQL, REST APIs, Auth0, Prisma, Mongoose, RabbitMQ, Knex
