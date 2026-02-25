@@ -3,7 +3,7 @@
 ---
 
 ## 🌟 About Me
-I'm a results-driven software developer with expertise in developing user-friendly and scalable applications primarily using JavaScript and its frameworks. My experience includes building robust backend services and dynamic frontend interfaces, allowing me to create seamless user experiences. Additionally, I possess a keen eye for design, honed through my background as a graphic designer I have experience working on **enterprise applications, e-commerce platforms, IoT systems, and cloud-based solutions**. My focus is on delivering high-quality, scalable, and efficient software solutions.
+I'm a results-driven software developer with expertise in developing user-friendly and scalable applications. My experience includes building robust backend services and dynamic frontend interfaces, allowing me to create seamless user experiences. Additionally, I possess a keen eye for design, honed through my background as a graphic designer I have experience working on **enterprise applications, e-commerce platforms, IoT systems, and cloud-based solutions**. My focus is on delivering high-quality, scalable, and efficient software solutions.
 
 ### 🛠 Tech Stack & Tools:
 - **Languages:** JavaScript and Python
