@@ -1,6 +1,6 @@
 # Hi 👋, I'm [Abdulrasaq](https://github.com/abdrasaq14) 💻
 
-### Frontend engineer who works fullstack when the project needs it — fintech, IoT, and enterprise platforms.
+### Frontend engineer who works fullstack when the project needs it
 
 [**View my portfolio →**](https://abdulrasaq-portfolio-website.vercel.app)
 
@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-I've shipped production web apps across fintech, IoT, and enterprise platforms — payment and compliance flows, real-time IoT dashboards, the works. Lately I've been focused on frontend observability and performance: at Hashrails I set up Grafana Faro for error tracking, Web Vitals, and distributed tracing, and worked on improving Core Web Vitals (INP, CLS, TTFB) on a live fintech platform. Background in graphic design, if you're wondering why the UI details bother me so much.
+I've shipped production web apps across fintech, IoT, and enterprise platforms payment and compliance flows, real-time IoT dashboards, the works. Lately I've been focused on frontend observability and performance: at Hashrails I set up Grafana Faro for error tracking, Web Vitals, and distributed tracing, and worked on improving Core Web Vitals (INP, CLS, TTFB) on a live fintech platform. Background in graphic design, if you're wondering why the UI details bother me so much.
 
 <hr>
 
