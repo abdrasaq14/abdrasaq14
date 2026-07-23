@@ -8,25 +8,7 @@
 
 ## 🌟 About Me
 
-I've shipped production web apps across fintech, IoT, and enterprise platforms payment and compliance flows, real-time IoT dashboards, the works. Lately I've been focused on frontend observability and performance: at Hashrails I set up Grafana Faro for error tracking, Web Vitals, and distributed tracing, and worked on improving Core Web Vitals (INP, CLS, TTFB) on a live fintech platform. Background in graphic design, if you're wondering why the UI details bother me so much.
-
-<hr>
-
-## 💼 Experience
-
-### Hashrails — Frontend Engineer
-Fintech platform handling merchant onboarding, KYB verification, and cross-border payments.
-- Set up **Grafana Faro** for frontend observability (error tracking, Web Vitals, distributed tracing) with OTLP-correlated backend traces — the platform's first frontend visibility into real user performance and production errors.
-- Built KYB (Know Your Business) verification workflows  used to onboard business owners onto the platform.
-- Overhauled payment and transaction flows across dashboards, replacing polling-based confirmation with a **WebSocket-based settlement integration** so payment status updates instantly instead of after a delay.
-- Integrated platform APIs for real-time pricing, liquidity, and settlement data, implementing secure authentication and embedded compliance checks.
-- Built an automated **Cypress testing framework** covering transaction flows, authentication, and compliance checks, catching regressions before every release and cutting production incidents.
-
-### Smarterise — Backend/Frontend Engineer
-IoT platform for real-time device telemetry and energy monitoring.
-- Designed and maintained **RESTful APIs** using Django REST Framework to process IoT device telemetry, including energy consumption metrics and operational KPIs, integrating **Auth0** for secure authentication and role-based access control.
-- Developed responsive dashboards using **React** and modern JavaScript, implementing **real-time data updates with WebSockets** to visualize device performance and energy usage trends.
-- Collaborated with hardware engineers to integrate IoT devices through **MQTT and HTTP protocols**, enabling reliable ingestion and monitoring of live device telemetry.
+I've shipped production web apps across fintech, IoT, and enterprise platforms payment and compliance flows, real-time IoT dashboards, the works. Lately I've been focused on frontend observability and performance: at Hashrails I set up Grafana Faro for error tracking, Web Vitals, and distributed tracing, and worked on improving Core Web Vitals (INP, CLS, TTFB) on a live fintech platform.
 
 <hr>
 
