@@ -4,13 +4,12 @@
 
 [**View my portfolio →**](https://abdulrasaq-portfolio-website.vercel.app)
 
-<hr>
 
 ## 🌟 About Me
 
 I've shipped production web apps across fintech, IoT, and enterprise platforms payment and compliance flows, real-time IoT dashboards, the works. Lately I've been focused on frontend observability and performance: at Hashrails I set up Grafana Faro for error tracking, Web Vitals, and distributed tracing, and worked on improving Core Web Vitals (INP, CLS, TTFB) on a live fintech platform.
 
-<hr>
+
 
 ## 📊 GitHub Stats
 
@@ -19,7 +18,7 @@ I've shipped production web apps across fintech, IoT, and enterprise platforms p
 
 <img src="https://streak-stats.demolab.com?user=abdrasaq14&theme=tokyonight&hide_border=true" />
 
-<hr>
+
 
 ## 🛠 Tech Stack & Tools
 
@@ -31,7 +30,7 @@ I've shipped production web apps across fintech, IoT, and enterprise platforms p
 - **Testing & Observability:** Cypress, Grafana Faro, OpenTelemetry (OTLP), Sentry
 - **Languages:** JavaScript, TypeScript, Python
 
-<hr>
+
 
 ## 📫 Let's Connect!
 
